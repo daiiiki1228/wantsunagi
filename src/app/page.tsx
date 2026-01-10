@@ -88,7 +88,7 @@ export default function LandingPage() {
           </div>
         </div>
       </main>
-
+/var/folders/81/ypjk8zbs2nq1jjn7s8v4v7kc0000gn/T/TemporaryItems/NSIRD_screencaptureui_h1QmI6/スクリーンショット 2026-01-10 23.17.15.png
       <footer className="bg-gray-50 border-t mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center">
