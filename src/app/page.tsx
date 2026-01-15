@@ -7,13 +7,13 @@ export default function LandingPage() {
             <h1 className="text-2xl font-bold text-primary">わんつなぎ</h1>
             <div className="space-x-4">
               
-                href="/login"
+                <a href="/login"
                 className="text-gray-600 hover:text-primary font-medium transition-colors"
               >
                 ログイン
               </a>
               
-                href="/register"
+                <a href="/register"
                 className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition-colors shadow-sm"
               >
                 新規登録
@@ -37,13 +37,13 @@ export default function LandingPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               
-                href="/register"
+                <a href="/register"
                 className="bg-primary text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-600 transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
               >
                 今すぐ始める
               </a>
               
-                href="/login"
+                <a href="/login"
                 className="border-2 border-primary text-primary px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-50 transition-all"
               >
                 ログイン
