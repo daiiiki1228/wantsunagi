@@ -6,14 +6,12 @@ export default function LandingPage() {
           <div className="flex justify-between items-center h-16">
             <h1 className="text-2xl font-bold text-primary">わんつなぎ</h1>
             <div className="space-x-4">
-              
-                <a href="/login"
+              <a href="/login"
                 className="text-gray-600 hover:text-primary font-medium transition-colors"
               >
                 ログイン
               </a>
-              
-                <a href="/register"
+              <a href="/register"
                 className="bg-primary text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition-colors shadow-sm"
               >
                 新規登録
@@ -36,14 +34,12 @@ export default function LandingPage() {
               愛犬と一緒に楽しめるイベントに参加したり、新しい犬友達を見つけましょう。
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              
-                <a href="/register"
+              <a href="/register"
                 className="bg-primary text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-600 transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
               >
                 今すぐ始める
               </a>
-              
-                <a href="/login"
+              <a href="/login"
                 className="border-2 border-primary text-primary px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-50 transition-all"
               >
                 ログイン
@@ -88,7 +84,6 @@ export default function LandingPage() {
           </div>
         </div>
       </main>
-/var/folders/81/ypjk8zbs2nq1jjn7s8v4v7kc0000gn/T/TemporaryItems/NSIRD_screencaptureui_h1QmI6/スクリーンショット 2026-01-10 23.17.15.png
       <footer className="bg-gray-50 border-t mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center">
